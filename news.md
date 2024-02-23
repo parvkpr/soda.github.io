@@ -3,7 +3,7 @@ layout: page
 title: News
 show_sidebar: false
 hide_footer: false
-permalink: /news
+permalink: /news/
 ---    
 <div class="news">
 {% if site.news != blank -%} 
@@ -17,7 +17,7 @@ permalink: /news
         {% if item.inline -%} 
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
         {%- else -%} 
-            <a class="news-title" href=" {{site.url}}{{ item.url | relative_url }}">{{ item.title }}</a>
+            <a class="news-title" href=" {{ item.url | relative_url }}">{{ item.title }}</a>
         {%- endif %} 
         </td>
     </tr>
