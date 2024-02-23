@@ -1,7 +1,7 @@
 ---
 title: Eunsuk Kang
 # subtitle: Ph.D. Student
-# job_title: Ph.D. Student
+job_title: Assistant Professor and Principal Investigator
 category: faculty
 layout: page
 image: /assets/img/eunsukk.png

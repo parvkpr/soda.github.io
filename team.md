@@ -20,6 +20,7 @@ permalink: /team/
                     <img src="{{ member.image | relative_url }}" alt="{{ member.title }}" style="width:100%;">
                     <div class="container">
                         <h4><b>{{ member.title }}</b></h4>
+                        {{ member.job_title }}
                     </div>
                 </div>
             </a>
@@ -37,6 +38,7 @@ permalink: /team/
                     <img src="{{ member.image | relative_url }}" alt="{{ member.title }}" style="width:100%;">
                     <div class="container">
                         <h4><b>{{ member.title }}</b></h4>
+                        {{ member.job_title }}
                     </div>
                 </div>
             </a>
@@ -54,6 +56,7 @@ permalink: /team/
                     <img src="{{ member.image | relative_url }}" alt="{{ member.title }}" style="width:100%;">
                     <div class="container">
                         <h4><b>{{ member.title }}</b></h4>
+                        {{ member.job_title }}
                     </div>
                 </div>
             </a>
@@ -71,6 +74,7 @@ permalink: /team/
                     <img src="{{ member.image | relative_url }}" alt="{{ member.title }}" style="width:100%;">
                     <div class="container">
                         <h4><b>{{ member.title }}</b></h4>
+                        {{ member.job_title }}
                     </div>
                 </div>
             </a>

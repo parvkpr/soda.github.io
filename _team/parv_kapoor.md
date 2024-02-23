@@ -1,7 +1,7 @@
 ---
 title: Parv Kapoor
 # subtitle: Ph.D. Student
-# job_title: Ph.D. Student
+job_title: SE Ph.D. Student 
 category: phd_student
 layout: page
 image: /assets/img/parv_kapoor.jpg
