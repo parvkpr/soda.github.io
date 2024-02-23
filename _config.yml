@@ -37,9 +37,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-scholar
   - kramdown-parser-gfm
+  - github-pages
 
-theme: bulma-clean-theme
-
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
+# baseurl: "/my-project"
+# plugins:
+# - github-pages
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
