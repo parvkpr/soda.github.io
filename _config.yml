@@ -23,7 +23,7 @@ email: parvk@cs.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Researching and developing tools for Software Assurance.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://parvkpr.github.io/soda.github.io/ " # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  parvkpr
 lang: en
