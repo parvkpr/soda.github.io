@@ -3,6 +3,7 @@ layout: page
 title: Tools
 show_sidebar: false
 hide_footer: false
+permalink: /tools/
 --- 
 <div class="tools">
 <h2>Tools</h2>

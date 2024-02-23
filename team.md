@@ -3,6 +3,7 @@ layout: page
 title: Our Team
 show_sidebar: false
 hide_footer: false
+permalink: /team/
 ---
 
 <div class="team">
