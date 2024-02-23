@@ -39,6 +39,7 @@ gem "jekyll", "~> 3.8"
 # end
 group :jekyll_plugins do
   gem 'jekyll-scholar'
+  gem 'faraday-retry' 
 end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
