@@ -6,8 +6,8 @@
   link: publications
 - name: News
   link: /news/
-# - name: Tools
-#   link: /tools/
+- name: Tools
+  link: /tools/
 # - name: Seminars
 #   dropdown:
 #     - name: Tartan SLAM Series Fall Edition

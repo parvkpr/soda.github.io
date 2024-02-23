@@ -21,11 +21,11 @@ If you are interested in joining our lab, please fill out [this form](https://do
 
 <div class="slideshow-container">
   <div class="mySlides fade">
-    <img src="assets/img/soda_logo.webp" style="width:100%">
+    <img src="assets/img/team.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/img/team.jpg" style="width:100%">
+    <img src="assets/img/soda_logo.webp" style="width:100%">
   </div>
 
   <div class="mySlides fade">

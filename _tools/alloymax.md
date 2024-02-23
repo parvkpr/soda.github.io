@@ -4,18 +4,10 @@ title: Alloy Max
 # job_title: Ph.D. Student
 category: software
 layout: page
-image: /assets/img/parv_kapoor.jpg
+image: /assets/img/alloymax.gif
 hide_footer: false
 link-new-tab: true
 ---
 
-Parv is a third-year graduate student at the Software and Societal Systems Department, Carnegie Mellon University currently pursuing a Ph.D. in Software Engineering. His research interests span the fields of verification of Cyber-Physical Systems behavior and safe planning and control methods for robotic systems. 
+A tool developed by CJ for the paper  [AlloyMax: bringing maximum satisfaction to relational specifications](https://dl.acm.org/doi/pdf/10.1145/3468264.3468587)
 ​
-## Email ##
-[parvk@cs.cmu.edu](mailto:parvk@cs.cmu.edu)
-​
-## Website ##
-[parvkpr.github.io](https://parvkpr.github.io/)
-
-## LinkedIn ##
-[https://www.linkedin.com/in/parv-kapoor/](https://www.linkedin.com/in/parv-kapoor/)

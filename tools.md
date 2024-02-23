@@ -6,7 +6,7 @@ hide_footer: false
 permalink: /tools/
 --- 
 <div class="tools">
-<h2>Tools</h2>
+<!-- <h2>Tools</h2> -->
 
 {% if site.tools != blank -%} 
 
