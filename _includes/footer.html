@@ -39,7 +39,7 @@
         </div>
         {% endif %} -->
         <div id="blocks">
-          <div id="block1"><img src="/assets/img/cmu-22.png" alt="CMU Logo" style="float: center;width: 5000px;"></div>
+          <div id="block1"><img src ="{{ '/assets/img/cmu-22.png' | prepend: site.baseurl }}" alt="CMU Logo" style="float: center;width: 5000px;"></div>
           <div id="block2">
             <center>
 
@@ -69,7 +69,7 @@
               <p class="">&copy; 2024, Built with <i class="fa fa-coffee animated-coffee"></i> and <i class="fa fa-heart beating-heart"></i></a></p>
             </center>
           </div>
-          <div id="block3"><img src="/assets/img/s3d_logo.png" alt="S3D Logo" style="float: right;"></div>
+          <div id="block3"><img src="{{ '/assets/img/s3d_logo.png' | prepend: site.baseurl }}"  alt="S3D Logo" style="float: right;"></div>
         </div>
         <!-- <div>
           <a href="{{ page.hero_link | prepend: site.baseurl  }}" class="button is-large"><div class="icon"><i class="fab fa-facebook"</i></div></a>

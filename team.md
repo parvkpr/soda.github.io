@@ -28,7 +28,7 @@ permalink: /team/
 </div>
 
 <!-- Postdoc Section -->
-<h3>Postdoc</h3>
+<h3>Postdocs</h3>
 <div class="team-members">
     {%- for member in site.team %}
         {%- if member.category == 'postdoc' %}
@@ -61,6 +61,22 @@ permalink: /team/
     {%- endfor %}
 </div>
 
+<!-- Alumni -->
+<h3>Alumni</h3>
+<div class="team-members">
+    {%- for member in site.team %}
+        {%- if member.category == 'alumni' %}
+            <a href="{{ '' | append: member.name | downcase | replace: '.md', ''| append: '.html' }}" class="team-member-link">
+                <div class="team-member">
+                    <img src="{{ member.image | relative_url }}" alt="{{ member.title }}" style="width:100%;">
+                    <div class="container">
+                        <h4><b>{{ member.title }}</b></h4>
+                    </div>
+                </div>
+            </a>
+        {%- endif %}
+    {%- endfor %}
+</div>
 {%- else -%} 
 <p>No team members listed so far...</p>
 {%- endif %} 
