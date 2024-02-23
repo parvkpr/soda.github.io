@@ -1,0 +1,13 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+
+// $family-sans-serif: 'Montserrat', sans-serif;
+$family-serif: 'Source Serif 4', serif;
+$primary: hsla(203, 100%, 40%, 0.795) !default;
+
+$tabs-link-active-color: $primary;
+$tabs-link-active-border-bottom-color: $primary;
+
+@import "../node_modules/bulma/bulma.sass";
+@import "syntax";
+@import "slide";
