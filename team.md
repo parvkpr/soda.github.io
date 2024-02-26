@@ -4,6 +4,8 @@ title: Our Team
 show_sidebar: false
 hide_footer: false
 permalink: /team/
+hero_height: is-large
+hero_image: /assets/img/team1.jpg
 ---
 
 <div class="team">
