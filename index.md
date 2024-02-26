@@ -4,7 +4,7 @@ subtitle: We research Software and Cyber Physical Systems!
 layout: page
 permalink: /
 hero_height: is-large
-hero_image: assets/img/team2.gif
+hero_image: /assets/img/team2.gif
 show_sidebar: true
 # subtitle:
 # #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -18,6 +18,7 @@ news: true  # includes a list of news items
 # selected_papers: false # includes a list of papers marked as "selected={true}"
 # social: true  # includes social icons at the bottom of the page
 ---
+![alt text](/assets/img/SodaLogo.svg)
 We research and develop tools for software assurance and design at [Carnegie Mellon University](https://www.cmu.edu/) led by Professor [Eunsuk Kang](https://eskang.github.io/). We are a part of the [Software and Societal Systems Department](https://s3d.cmu.edu/) in  the [School of Computer Science](https://www.cs.cmu.edu/). 
 
 We are interested in leveraging rigorous modeling and analysis techniques to design software systems that are safe, secure, and reliable. Our current work involves software design, requirements, modeling, specification and verification, system safety, security, and cyber-physical systems.

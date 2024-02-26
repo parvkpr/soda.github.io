@@ -7,6 +7,7 @@ layout: page
 image: /assets/img/eunsukk.png
 hide_footer: true
 link-new-tab: true
+# permalink: /eunsuk/
 # hero_height: is-large
 # hero_image: /assets/img/eunsuk.jpeg
 ---

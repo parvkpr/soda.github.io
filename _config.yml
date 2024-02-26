@@ -30,6 +30,7 @@ lang: en
 last_updated: true
 # Build settings
 # theme: minima
+# permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -38,6 +39,7 @@ plugins:
   - jekyll-scholar
   - kramdown-parser-gfm
   # - github-pages
+  
 theme: bulma-clean-theme
 # remote_theme: chrisrhymes/bulma-clean-theme
 # baseurl: "/my-project"
