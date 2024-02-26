@@ -22,7 +22,7 @@ Eunsuk works mainly at the intersection of software engineering and formal metho
 
 
 ## TLDR ##
-![alt text](/assets/img/eunsuk.jpeg)
+![alt text](https://parvkpr.github.io/sodalab/assets/img/eunsuk.jpeg)
 
 
 
