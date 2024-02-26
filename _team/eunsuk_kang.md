@@ -9,7 +9,7 @@ hide_footer: true
 link-new-tab: true
 ---
 
-Eunsuk pays for us.
+Eunsuk works mainly at the intersection of software engineering and formal methods. He is especially interested in leveraging rigorous modeling and analysis techniques to design software systems that are safe, secure, and reliable. His current interests include software design, requirements, modeling, specification and verification, system safety, security, and cyber-physical systems.
 ​
 ## Email ##
 [eunsukk@andrew.cmu.edu](mailto:eunsukk@andrew.cmu.edu)

@@ -1,4 +1,6 @@
 ---
+title: SoDA
+subtitle: We research Software and Cyber Physical Systems!
 layout: page
 permalink: /
 hero_height: is-large
