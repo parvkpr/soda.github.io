@@ -22,7 +22,7 @@ We research and develop tools for software assurance and design at [Carnegie Mel
 
 We are interested in leveraging rigorous modeling and analysis techniques to design software systems that are safe, secure, and reliable. Our current work involves software design, requirements, modeling, specification and verification, system safety, security, and cyber-physical systems.
 
-See our [Research](/research) and [Team](/team) for more info!
+See our [Research](https://parvkpr.github.io/sodalab/research/) and [Team](https://parvkpr.github.io/sodalab/team/) for more info!
 
 <!-- 
 <div class="slideshow-container">
