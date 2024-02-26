@@ -5,6 +5,7 @@ layout: page
 permalink: /
 hero_height: is-large
 hero_image: assets/img/team2.gif
+show_sidebar: true
 # subtitle:
 # #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -19,8 +20,9 @@ news: true  # includes a list of news items
 ---
 We research and develop tools for software assurance and design at [Carnegie Mellon University](https://www.cmu.edu/) led by Professor [Eunsuk Kang](https://eskang.github.io/). We are a part of the [Software and Societal Systems Department](https://s3d.cmu.edu/) in  the [School of Computer Science](https://www.cs.cmu.edu/). 
 
-If you are interested in joining our lab, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSddQ--uka2G7yDAaOrrtqH5BmBMmCAhq7GZp6zbwzG2ZXg1wA/viewform?usp=sf_link). 
+We are interested in leveraging rigorous modeling and analysis techniques to design software systems that are safe, secure, and reliable. Our current work involves software design, requirements, modeling, specification and verification, system safety, security, and cyber-physical systems.
 
+See our [Research](/research) and [Team](/team) for more info!
 
 <!-- 
 <div class="slideshow-container">
