@@ -21,15 +21,21 @@ If you are interested in joining our lab, please fill out [this form](https://do
 
 <div class="slideshow-container">
   <div class="mySlides fade">
-    <img src="assets/img/team.jpg" style="width:100%">
+    <img src="assets/img/team1.jpg" style="width:100%">
   </div>
-
-  <div class="mySlides fade">
-    <img src="assets/img/soda_logo.webp" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
+    <!-- <div class="mySlides fade">
     <img src="assets/img/eunsuk_cool_sweater.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="assets/img/team.jpg" style="width:100%">
+  </div> -->
+
+  <!-- <div class="mySlides fade">
+    <img src="assets/img/team2.jpg" style="width:100%">
+  </div> -->
+
+  <div class="mySlides fade">
+    <img src="assets/img/team3-2.jpg" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->

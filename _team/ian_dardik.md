@@ -4,7 +4,7 @@ title: Ian Dardik
 job_title: SE Ph.D. Student 
 category: phd_student
 layout: page
-image: /assets/img/ian_dardik.jpg
+image: /assets/img/ian_dardik_cmu.jpg
 hide_footer: true
 link-new-tab: true
 ---
