@@ -3,8 +3,8 @@ layout: page
 title: Our Team
 show_sidebar: false
 hide_footer: false
-# hero_height: is-large
-# hero_image: assets/img/team1.jpg
+hero_height: is-large
+hero_image: /sodalab/assets/img/team1.jpg
 permalink: /team/
 ---
 
