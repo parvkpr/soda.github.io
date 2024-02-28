@@ -1,3 +1,5 @@
+Development finished, forked it to SoDA org and hosted it there. No further changes expected.
+
 Website for Software Design and Analysis (SoDA) Lab led by Eunsuk Kang!
 
 In order to add your profile, create a markdown file in the team folder.
