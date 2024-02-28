@@ -1,12 +1,12 @@
 ---
-layout: page
-title: Research
+title: Projects
+subtitle: Check out our research projects
+layout: product-category
 show_sidebar: false
-hide_footer: false
-permalink: /research/
+# sort: price
+permalink: /projects/
 --- 
 
-# Too busy doing research to update this page
 
 <!-- Things to talk about:
 CJ's robustness project (all of CJ's work)

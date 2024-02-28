@@ -64,6 +64,11 @@ collections:
   tools:
     output: true
   #   #permalink: /tools/:path/
+  projects: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
 navbar_fixed: true
 footer_fixed: true
 
