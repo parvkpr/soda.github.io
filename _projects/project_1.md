@@ -3,7 +3,7 @@ title:  Decomposing STL for Safe Planning
 subtitle: 
 description: A theory for decomposing Signal Temporal Logic Specifications
 layout: product
-image: /assets/img/parvproj2.jpg
+image: ../assets/img/parvproj2.jpg
 features:
     - label: Trajectory Planning
       icon: fa-fighter-jet

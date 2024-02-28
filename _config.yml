@@ -22,7 +22,7 @@ tagline: We are the Software Design and Analysis Lab at Carnegie Mellon Universi
 email: parvk@cs.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Researching and developing tools for Software Assurance.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sodalab" # the subpath of your site, e.g. /blog
 url: "https://parvkpr.github.io/sodalab/ " # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  parvkpr
