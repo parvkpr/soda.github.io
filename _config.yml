@@ -67,7 +67,6 @@ collections:
   projects: 
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600
     show_sidebar: false
 navbar_fixed: true
 footer_fixed: true
